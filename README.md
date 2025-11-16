@@ -15,7 +15,7 @@ A real-time bus location tracking system where students can request bus location
 
 ### Frontend: Netlify
 1. Push code to GitHub
-2. Go to https://netlify.com → Import project
+2. Go to [https://netlify.com](https://bus-tra-king-system.netlify.app/) → Import project
 3. Build command: `npm run build`, Directory: `dist`
 4. Deploy! ✅
 
