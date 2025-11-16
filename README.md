@@ -45,7 +45,7 @@ npm run server
 npm run dev
 ```
 
-Open http://localhost:5173 in your browser!
+Open [http://localhost:5173](https://bus-tra-king-system.netlify.app/) in your browser!
 
 ## 🎯 How to Use
 
