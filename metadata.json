@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Bus Web Tracking System",
+  "description": "A web application for students to track their bus in real-time. Students can request the location of a specific bus, and the driver can accept or reject the request. Upon acceptance, the driver's live location is shared and displayed on the student's map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
